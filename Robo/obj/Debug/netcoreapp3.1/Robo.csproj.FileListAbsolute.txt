@@ -1,0 +1,74 @@
+C:\Users\paulo\source\repos\Robo\Robo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\paulo\source\repos\Robo\Robo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\paulo\source\repos\Robo\Robo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\paulo\source\repos\Robo\Robo\bin\Debug\netcoreapp3.1\Robo.exe
+C:\Users\paulo\source\repos\Robo\Robo\bin\Debug\netcoreapp3.1\Robo.deps.json
+C:\Users\paulo\source\repos\Robo\Robo\bin\Debug\netcoreapp3.1\Robo.runtimeconfig.json
+C:\Users\paulo\source\repos\Robo\Robo\bin\Debug\netcoreapp3.1\Robo.runtimeconfig.dev.json
+C:\Users\paulo\source\repos\Robo\Robo\bin\Debug\netcoreapp3.1\Robo.dll
+C:\Users\paulo\source\repos\Robo\Robo\bin\Debug\netcoreapp3.1\Robo.pdb
+C:\Users\paulo\source\repos\Robo\Robo\bin\Debug\netcoreapp3.1\Robo.Views.dll
+C:\Users\paulo\source\repos\Robo\Robo\bin\Debug\netcoreapp3.1\Robo.Views.pdb
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.AssemblyInfo.cs
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.RazorAssemblyInfo.cache
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.RazorAssemblyInfo.cs
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.TagHelpers.input.cache
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.TagHelpers.output.cache
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.RazorCoreGenerate.cache
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.RazorTargetAssemblyInfo.cache
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.RazorTargetAssemblyInfo.cs
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.Views.pdb
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\staticwebassets\Robo.StaticWebAssets.Manifest.cache
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\staticwebassets\Robo.StaticWebAssets.xml
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.dll
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.pdb
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.genruntimeconfig.cache
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Robo.csproj.CopyComplete
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Head.cshtml.g.cs
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Body.cshtml.g.cs
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Razor\Views\Home\LeftElbow.cshtml.g.cs
+C:\Users\paulo\source\repos\Robo\Robo\obj\Debug\netcoreapp3.1\Razor\Views\Home\RightElbow.cshtml.g.cs
+C:\Users\paulo\Desktop\Nova pasta\Robo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\paulo\Desktop\Nova pasta\Robo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\paulo\Desktop\Nova pasta\Robo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\paulo\Desktop\Nova pasta\Robo\bin\Debug\netcoreapp3.1\Robo.exe
+C:\Users\paulo\Desktop\Nova pasta\Robo\bin\Debug\netcoreapp3.1\Robo.deps.json
+C:\Users\paulo\Desktop\Nova pasta\Robo\bin\Debug\netcoreapp3.1\Robo.runtimeconfig.json
+C:\Users\paulo\Desktop\Nova pasta\Robo\bin\Debug\netcoreapp3.1\Robo.runtimeconfig.dev.json
+C:\Users\paulo\Desktop\Nova pasta\Robo\bin\Debug\netcoreapp3.1\Robo.dll
+C:\Users\paulo\Desktop\Nova pasta\Robo\bin\Debug\netcoreapp3.1\Robo.pdb
+C:\Users\paulo\Desktop\Nova pasta\Robo\bin\Debug\netcoreapp3.1\Robo.Views.dll
+C:\Users\paulo\Desktop\Nova pasta\Robo\bin\Debug\netcoreapp3.1\Robo.Views.pdb
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.csprojAssemblyReference.cache
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.AssemblyInfo.cs
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.RazorAssemblyInfo.cache
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.RazorAssemblyInfo.cs
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.TagHelpers.input.cache
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.TagHelpers.output.cache
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.RazorCoreGenerate.cache
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Body.cshtml.g.cs
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Head.cshtml.g.cs
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Razor\Views\Home\LeftElbow.cshtml.g.cs
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Razor\Views\Home\RightElbow.cshtml.g.cs
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.RazorTargetAssemblyInfo.cache
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.RazorTargetAssemblyInfo.cs
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.Views.pdb
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\staticwebassets\Robo.StaticWebAssets.Manifest.cache
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\staticwebassets\Robo.StaticWebAssets.xml
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.dll
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.pdb
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.genruntimeconfig.cache
+C:\Users\paulo\Desktop\Nova pasta\Robo\obj\Debug\netcoreapp3.1\Robo.csproj.CopyComplete

@@ -1,0 +1,161 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<input hidden id="ReceiveHeadR" />
+<input hidden id="ReceiveHeadI" />
+<input hidden id="ReceiveLeftElbow" />
+<input hidden id="ReceiveRigthElbow" />
+<input hidden id="ReceiveLeftPulse" />
+<input hidden id="ReceiveRigthPulse" />
+
+<div class="row" style=" margin-top:7px;">
+    <div class="col-sm-3">
+        <div class="row">
+            <div style="margin-left:7px;" class="card">
+                <div class="card-header">
+                    Outros
+                </div>
+                <div style="height:212px; width:318px;" class="card-body">
+                    <div class="row">
+                        <div class="col-sm-8">
+                            <label>Status Robo</label>
+                            <input id="Status" type="text" class="form-control" />
+                        </div>
+                        <div class="col-sm-4">
+                            <label>&nbsp;</label>
+                            <button onclick="Resetar()" type="button" class="btn btn-success">Resetar</button>
+                        </div>
+                    </div>
+                    <label>Mensagem do Sistema</label>
+                    <textarea id="Mensage" class="form-control"></textarea>
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div style="margin-left:7px;" class="card">
+                <div class="card-header">
+                    Braço Esquerdo
+                </div>
+                <div class="card-body" style="height: 212px; width: 318px;">
+
+                    <label>Cotovelo</label>
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <button id="LElbowUp" class="btn btn-outline-primary" type="button"><i class="fas fa-chevron-up"></i></button>
+                        </div>
+                        <input id="LElbow" readonly type="text" class="form-control" placeholder="" aria-label="" aria-describedby="basic-addon1">
+                        <div class="input-group-append">
+                            <button id="LElbowDown" class="btn btn-outline-primary" type="button"><i class="fas fa-chevron-down"></i></button>
+                        </div>
+                    </div>
+                    <label>Rotação do Pulso</label>
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <button id="LPulseAdd" class="btn btn-outline-primary" type="button"><i class="fas fa-chevron-left"></i></button>
+                        </div>
+                        <input id="LPulse" readonly type="text" class="form-control" placeholder="" aria-label="" aria-describedby="basic-addon1">
+                        <div class="input-group-append">
+                            <button id="LPulseRemove" class="btn btn-outline-primary" type="button"><i class="fas fa-chevron-right"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm d-flex justify-content-center">
+        <table>
+            <tr>
+                <th></th>
+                <th><div style="margin-bottom:-10px;">@await Html.PartialAsync("Head.cshtml")</div></th>
+                <th></th>
+            </tr>
+            <tr>
+                <td><div style="margin-top:-50px; margin-right:-5px;">@await Html.PartialAsync("LeftElbow.cshtml")</div></td>
+                <td>@await Html.PartialAsync("Body.cshtml")</td>
+                <td><div style="margin-top:-50px; margin-left:-15px;">@await Html.PartialAsync("RightElbow.cshtml")</div></td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="col-sm-3">
+        <div class="row">
+            <div class="card">
+                <div class="card-header">
+                    Cabeça
+                </div>
+                <div class="card-body" style="height: 212px; width: 318px;">
+                    <label>Inclinação</label>
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <button id="IHeadUp" class="btn btn-outline-primary" type="button"><i class="fas fa-chevron-up"></i></button>
+                        </div>
+                        <input id="IHead" readonly type="text" class="form-control" placeholder="" aria-label="" aria-describedby="basic-addon1">
+                        <div class="input-group-append">
+                            <button id="IHeadDown" class="btn btn-outline-primary" type="button"><i class="fas fa-chevron-down"></i></button>
+                        </div>
+                    </div>
+                    <label>Rotação</label>
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <button id="RHeadUp" class="btn btn-outline-primary" type="button"><i class="fas fa-chevron-left"></i></button>
+                        </div>
+                        <input id="RHead" readonly type="text" class="form-control" placeholder="" aria-label="" aria-describedby="basic-addon1">
+                        <div class="input-group-append">
+                            <button id="RHeadDown" class="btn btn-outline-primary" type="button"><i class="fas fa-chevron-right"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="card">
+                <div class="card-header">
+                    Braço Direito
+                </div>
+                <div class="card-body" style="height: 212px; width: 318px;">
+                    <label>Cotovelo</label>
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <button id="RElbowUp" class="btn btn-outline-primary" type="button"><i class="fas fa-chevron-up"></i></button>
+                        </div>
+                        <input id="RElbow" readonly type="text" class="form-control" placeholder="" aria-label="" aria-describedby="basic-addon1">
+                        <div class="input-group-append">
+                            <button id="RElbowDown" class="btn btn-outline-primary" type="button"><i class="fas fa-chevron-down"></i></button>
+                        </div>
+                    </div>
+                    <label>Rotação do Pulso</label>
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <button id="RPulseAdd" class="btn btn-outline-primary" type="button"><i class="fas fa-chevron-left"></i></button>
+                        </div>
+                        <input id="RPulse" readonly type="text" class="form-control" placeholder="" aria-label="" aria-describedby="basic-addon1">
+                        <div class="input-group-append">
+                            <button id="RPulseRemove" class="btn btn-outline-primary" type="button"><i class="fas fa-chevron-right"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="card" style="margin-bottom: 7px;">
+    <div class="card-header">
+        <h5 class="card-title">Console</h5>
+    </div>
+    <div class="card-body">
+
+        <label><b>Link da Solicitação: </b><input type="text" style="width:500px; border:none" class="col-form-label" id="link" /></label>
+        <label><b>Método da Solicitação: </b><input type="text" class="col-form-label" style="border:none" id="tipo" /></label>
+
+        <br />
+        <label>Corpo da Solicitação</label>
+        <textarea class="form-control" id="BodySol"></textarea>
+
+        <label>Resposta</label>
+        <textarea class="form-control" id="BodyRes"></textarea>
+
+    </div>
+</div>
+

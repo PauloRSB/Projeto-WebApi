@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Robo</title>
+    <link href="~/bootstrap-4.5.2-dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/fontawesome-free-5.14.0-web/css/all.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- Just an image -->
+    <nav class="navbar navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">
+            ROBO
+        </a>
+    </nav>
+
+    <div class="container-fluid">
+        @RenderBody()
+    </div>
+
+
+    <script src="~/js/jquery-3.5.1.min.js"></script>
+    <script src="~/fontawesome-free-5.14.0-web/js/all.js"></script>
+    <script src="~/bootstrap-4.5.2-dist/js/bootstrap.js"></script>
+    <script src="~/roboJs/RoboConnection.js"></script>
+    <script src="~/roboJs/BtnVerifications.js"></script>
+    <script src="~/roboJs/ItensVerifications.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+
+</html>
